@@ -1,0 +1,10 @@
+﻿  Course.cpp
+  Game.cpp
+C:\Users\Asus\OneDrive\Maestria\Canada\Game Development Job Hunting\Ubisoft Next 2025\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\Game.cpp(200,25): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Asus\OneDrive\Maestria\Canada\Game Development Job Hunting\Ubisoft Next 2025\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\GameTest\Game.cpp(207,26): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  GameTest.cpp
+  Trampoline.cpp
+  Generating Code...
+  GameTest.vcxproj -> C:\Users\Asus\OneDrive\Maestria\Canada\Game Development Job Hunting\Ubisoft Next 2025\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\x64\Debug\GameTest.exe
+  C:\Users\Asus\OneDrive\Maestria\Canada\Game Development Job Hunting\Ubisoft Next 2025\Ubisoft-Toronto-NEXT-2024-2025-Programming-API\API\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
